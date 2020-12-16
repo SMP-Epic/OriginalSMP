@@ -1,0 +1,6 @@
+/logs
+/debug
+/cache
+.console_history
+ops.json
+whitelist.json

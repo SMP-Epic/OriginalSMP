@@ -1,0 +1,92 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2020-12-10 22:11:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-12-10 22:12:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-12-10 22:12:57 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-12-10 22:11:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-12-10 22:12:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-12-10 22:12:57 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2020-12-10 22:11:40 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2020-12-10 22:11:40 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2020-12-10 22:11:40 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2020-12-10 22:11:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-12-10 22:12:57 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_mob_heads": {
+    "criteria": {
+      "tick": "2020-12-10 22:11:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-12-10 22:12:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-12-10 22:12:05 -0500",
+      "minecraft:mountains": "2020-12-10 22:12:31 -0500",
+      "minecraft:river": "2020-12-10 22:13:26 -0500",
+      "minecraft:wooded_hills": "2020-12-10 22:11:40 -0500",
+      "minecraft:swamp": "2020-12-10 22:13:07 -0500",
+      "minecraft:plains": "2020-12-10 22:14:18 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

@@ -1,0 +1,52 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2020-12-08 19:38:22 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2020-12-08 19:38:22 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2020-12-08 19:38:22 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2020-12-08 19:38:22 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2020-12-08 19:38:22 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_mob_heads": {
+    "criteria": {
+      "tick": "2020-12-08 19:38:22 -0500"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-12-08 19:38:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-12-08 19:38:27 -0500",
+      "minecraft:wooded_hills": "2020-12-08 19:38:22 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}
